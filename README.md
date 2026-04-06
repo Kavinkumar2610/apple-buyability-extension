@@ -23,7 +23,8 @@ A Chrome extension that monitors the **Apple MY-EDU Store** (Apple The Exchange 
 
 ## Screenshots
 
-> _Add your screenshots here_
+<img width="355" height="576" alt="image" src="https://github.com/user-attachments/assets/2cdf88b0-4875-40f3-98f6-7269afbff645" />
+
 
 ---
 
